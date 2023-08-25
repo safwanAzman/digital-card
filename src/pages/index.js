@@ -16,7 +16,7 @@ export default function Home() {
               src={Safwans}
               title="Safwan & Asyqin"
               desc="This is my wedding card"
-              href="https://wq-phi.vercel.app/"
+              href="https://safwan-card.vercel.app/"
             />
             
             <Card
