@@ -1,7 +1,7 @@
 import { Inter } from 'next/font/google';
 import { Card } from '@/components/Card';
 import Arep from '@/assets/arep.png'
-import Safwans from '@/assets/safwans.png'
+import Safwans from '@/assets/safwan.png'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -12,12 +12,12 @@ export default function Home() {
 
         <div className="grid grid-cols-1 gap-6 mt-6 md:grid-cols-2 lg:grid-cols-3">
           
-          {/* <Card
+            <Card
               src={Safwans}
               title="Safwan & Asyqin"
               desc="This is my wedding card"
-              href="https://safwan-card.vercel.app/"
-            /> */}
+              href="https://walimatulurus.vercel.app/"
+            />
             
             <Card
               src={Arep}
